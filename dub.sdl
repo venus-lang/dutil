@@ -1,6 +1,7 @@
 name "dutil"
 description "A minimal D application."
 copyright "Copyright © 2016, sdev"
-authors "sdev"
+authors "zhaopuming"
+license "MIT"
 
 dependency "emsi_containers" version="*"
