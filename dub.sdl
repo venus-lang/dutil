@@ -1,5 +1,5 @@
 name "dutil"
-description "A minimal D application."
+description "A util lib"
 copyright "Copyright © 2016-2017, sdev"
 authors "zhaopuming"
 license "MIT"
